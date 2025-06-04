@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoPW")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16436d75281aa32ec2c82a9fdc11208b93a33161")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fca6974cb73b4f7f9fc1adb94ef5d1f50fc5f82")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoPW")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoPW")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
