@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\3ds\\Desktop\\ProjetoPW\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|c:\\users\\3ds\\desktop\\projetopw\\projetopw\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|solutionrelative:projetopw\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|c:\\users\\3ds\\desktop\\projetopw\\projetopw\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|solutionrelative:projetopw\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|c:\\users\\3ds\\desktop\\projetopw\\projetopw\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|solutionrelative:projetopw\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|c:\\users\\3ds\\desktop\\projetopw\\projetopw\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|solutionrelative:projetopw\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|c:\\users\\3ds\\desktop\\projetopw\\projetopw\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|solutionrelative:projetopw\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|c:\\users\\3ds\\desktop\\projetopw\\projetopw\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|solutionrelative:projetopw\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\ProjetoPW\\ProjetoPW\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "ProjetoPW\\Models\\Produto.cs",
               "ToolTip": "C:\\Users\\3ds\\Desktop\\ProjetoPW\\ProjetoPW\\Models\\Produto.cs",
               "RelativeToolTip": "ProjetoPW\\Models\\Produto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T10:58:51.523Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\ProjetoPW\\ProjetoPW\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "ProjetoPW\\Models\\Usuario.cs",
@@ -51,33 +51,33 @@
               "RelativeToolTip": "ProjetoPW\\Models\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T10:58:38.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T10:58:38.55Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ProdutoRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\ProjetoPW\\ProjetoPW\\Repositorio\\ProdutoRepositorio.cs",
               "RelativeDocumentMoniker": "ProjetoPW\\Repositorio\\ProdutoRepositorio.cs",
               "ToolTip": "C:\\Users\\3ds\\Desktop\\ProjetoPW\\ProjetoPW\\Repositorio\\ProdutoRepositorio.cs",
               "RelativeToolTip": "ProjetoPW\\Repositorio\\ProdutoRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAACUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T10:54:49.386Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "UsuarioRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\ProjetoPW\\ProjetoPW\\Repositorio\\UsuarioRepositorio.cs",
               "RelativeDocumentMoniker": "ProjetoPW\\Repositorio\\UsuarioRepositorio.cs",
               "ToolTip": "C:\\Users\\3ds\\Desktop\\ProjetoPW\\ProjetoPW\\Repositorio\\UsuarioRepositorio.cs",
               "RelativeToolTip": "ProjetoPW\\Repositorio\\UsuarioRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T10:54:27.455Z"
+              "WhenOpened": "2025-06-04T10:54:27.455Z",
+              "EditorCaption": ""
             }
           ]
         }
