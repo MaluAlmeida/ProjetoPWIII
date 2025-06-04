@@ -17,14 +17,14 @@
                 _produtoRepositorio = produtoRepositorio;
             }
   
-            public IActionResult Cadastro()
+            public IActionResult CadastrarProd()
             {
                 // Retorna a View  Cadastro.
                 return View();
             }
 
             [HttpPost]
-            public IActionResult Cadastro(Produto produto)
+            public IActionResult CadastrarProd(Produto produto)
             {
                 // Verifica se o ModelState é válido. O ModelState é considerado válido se não houver erros de validação.
                 if (ModelState.IsValid)

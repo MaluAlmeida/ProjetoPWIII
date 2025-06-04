@@ -1,0 +1,22 @@
+﻿@model ProjetoPW.Models.Produto;
+
+<form asp-action="Cadastro" method="post">
+    <div>
+        <label>Nome:</label>
+        <input asp-for="Nome" required />
+    </div>
+    <div>
+        <label>Descricao:</label>
+        <input asp-for="Descricao" required />
+    </div>    
+    <div>
+        <label>Preço:</label>
+        <input asp-for="Preco" required />
+    </div>   
+    <div>
+        <label>Quantidade:</label>
+        <input asp-for="Quantidade" required />
+    </div>    
+
+    <button type="submit">Novo Cadastrado</button>
+</form>
