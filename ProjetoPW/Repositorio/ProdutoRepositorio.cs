@@ -38,7 +38,7 @@ namespace ProjetoPW.Repositorio
                             produto = new Produto
                             {
                                 // Lê o valor da coluna "Id" da linha atual do resultado, converte para inteiro e atribui à propriedade 'Id' do objeto 'usuario'.
-                                Id = Convert.ToInt32(dr["Id"]), 
+                                IdProd = Convert.ToInt32(dr["IdProd"]), 
                                 Nome = dr["Nome"].ToString(), 
                                 Descricao = dr["Descricao"].ToString(),
                                 Preco = Convert.ToDecimal(dr["Preco"]),
