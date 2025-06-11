@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|c:\\users\\3ds\\desktop\\projetopwiii\\projetopw\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|solutionrelative:projetopw\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|c:\\users\\3ds\\desktop\\projetopwiii\\projetopw\\views\\produto\\cadastrarprod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|solutionrelative:projetopw\\views\\produto\\cadastrarprod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|c:\\users\\3ds\\desktop\\projetopwiii\\projetopw\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|solutionrelative:projetopw\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|c:\\users\\3ds\\desktop\\projetopwiii\\projetopw\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|solutionrelative:projetopw\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|c:\\users\\3ds\\desktop\\projetopwiii\\projetopw\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|solutionrelative:projetopw\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|c:\\users\\3ds\\desktop\\projetopwiii\\projetopw\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|solutionrelative:projetopw\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|c:\\users\\3ds\\desktop\\projetopwiii\\projetopw\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|solutionrelative:projetopw\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|c:\\users\\3ds\\desktop\\projetopwiii\\projetopw\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|solutionrelative:projetopw\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|c:\\users\\3ds\\desktop\\projetopwiii\\projetopw\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|solutionrelative:projetopw\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|c:\\users\\3ds\\desktop\\projetopwiii\\projetopw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|solutionrelative:projetopw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|c:\\users\\3ds\\desktop\\projetopwiii\\projetopw\\views\\usuario\\cadastro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|solutionrelative:projetopw\\views\\usuario\\cadastro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|c:\\users\\3ds\\desktop\\projetopwiii\\projetopw\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|solutionrelative:projetopw\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|c:\\users\\3ds\\desktop\\projetopwiii\\projetopw\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|solutionrelative:projetopw\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|c:\\users\\3ds\\desktop\\projetopwiii\\projetopw\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,22 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|c:\\users\\3ds\\desktop\\projetopwiii\\projetopw\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|solutionrelative:projetopw\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|c:\\users\\3ds\\desktop\\projetopwiii\\projetopw\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|solutionrelative:projetopw\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|c:\\users\\3ds\\desktop\\projetopwiii\\projetopw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|solutionrelative:projetopw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|c:\\users\\3ds\\desktop\\projetopwiii\\projetopw\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|solutionrelative:projetopw\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|c:\\users\\3ds\\desktop\\projetopwiii\\projetopw\\views\\produto\\cadastrarprod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{582C736F-5B90-414D-82AB-3A83CF8D1C47}|ProjetoPW\\ProjetoPW.csproj|solutionrelative:projetopw\\views\\produto\\cadastrarprod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Views\\Usuario\\Login.cshtml",
               "RelativeDocumentMoniker": "ProjetoPW\\Views\\Usuario\\Login.cshtml",
@@ -71,11 +75,115 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-04T11:25:04.822Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ProjetoPW\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ProjetoPW\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T11:17:06.451Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ProjetoPW\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ProjetoPW\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:17:55.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "ProjetoPW\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "ProjetoPW\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA9wA4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:17:44.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Repositorio\\ProdutoRepositorio.cs",
+              "RelativeDocumentMoniker": "ProjetoPW\\Repositorio\\ProdutoRepositorio.cs",
+              "ToolTip": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Repositorio\\ProdutoRepositorio.cs",
+              "RelativeToolTip": "ProjetoPW\\Repositorio\\ProdutoRepositorio.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:54:49.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "ProjetoPW\\Repositorio\\UsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "ProjetoPW\\Repositorio\\UsuarioRepositorio.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:54:27.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoPW\\Program.cs",
+              "ToolTip": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Program.cs",
+              "RelativeToolTip": "ProjetoPW\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:34:28.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CadastrarProd.cshtml",
+              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Views\\Produto\\CadastrarProd.cshtml",
+              "RelativeDocumentMoniker": "ProjetoPW\\Views\\Produto\\CadastrarProd.cshtml",
+              "ToolTip": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Views\\Produto\\CadastrarProd.cshtml",
+              "RelativeToolTip": "ProjetoPW\\Views\\Produto\\CadastrarProd.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T11:28:05.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjetoPW\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjetoPW\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAB8AAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T11:30:28.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Cadastro.cshtml",
               "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Views\\Usuario\\Cadastro.cshtml",
               "RelativeDocumentMoniker": "ProjetoPW\\Views\\Usuario\\Cadastro.cshtml",
@@ -88,46 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "ProjetoPW\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "ProjetoPW\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAcwBEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T11:17:55.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProdutoController.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Controllers\\ProdutoController.cs",
-              "RelativeDocumentMoniker": "ProjetoPW\\Controllers\\ProdutoController.cs",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Controllers\\ProdutoController.cs",
-              "RelativeToolTip": "ProjetoPW\\Controllers\\ProdutoController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowBMAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T11:17:44.142Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Models\\Produto.cs",
-              "RelativeDocumentMoniker": "ProjetoPW\\Models\\Produto.cs",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Models\\Produto.cs",
-              "RelativeToolTip": "ProjetoPW\\Models\\Produto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T10:58:51.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "ProjetoPW\\Models\\Usuario.cs",
@@ -135,62 +204,23 @@
               "RelativeToolTip": "ProjetoPW\\Models\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T10:58:38.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T10:58:38.55Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProdutoRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Repositorio\\ProdutoRepositorio.cs",
-              "RelativeDocumentMoniker": "ProjetoPW\\Repositorio\\ProdutoRepositorio.cs",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Repositorio\\ProdutoRepositorio.cs",
-              "RelativeToolTip": "ProjetoPW\\Repositorio\\ProdutoRepositorio.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAgwDgAAAANAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "ProjetoPW\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Models\\Produto.cs",
+              "RelativeToolTip": "ProjetoPW\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T10:54:49.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T10:58:51.523Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsuarioRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Repositorio\\UsuarioRepositorio.cs",
-              "RelativeDocumentMoniker": "ProjetoPW\\Repositorio\\UsuarioRepositorio.cs",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Repositorio\\UsuarioRepositorio.cs",
-              "RelativeToolTip": "ProjetoPW\\Repositorio\\UsuarioRepositorio.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCYAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T10:54:27.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Program.cs",
-              "RelativeDocumentMoniker": "ProjetoPW\\Program.cs",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Program.cs",
-              "RelativeToolTip": "ProjetoPW\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T11:34:28.042Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ProjetoPW\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ProjetoPW\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-04T11:30:28.891Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\appsettings.json",
               "RelativeDocumentMoniker": "ProjetoPW\\appsettings.json",
@@ -198,20 +228,7 @@
               "RelativeToolTip": "ProjetoPW\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-04T11:36:38.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CadastrarProd.cshtml",
-              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Views\\Produto\\CadastrarProd.cshtml",
-              "RelativeDocumentMoniker": "ProjetoPW\\Views\\Produto\\CadastrarProd.cshtml",
-              "ToolTip": "C:\\Users\\3ds\\Desktop\\ProjetoPWIII\\ProjetoPW\\Views\\Produto\\CadastrarProd.cshtml",
-              "RelativeToolTip": "ProjetoPW\\Views\\Produto\\CadastrarProd.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-04T11:28:05.637Z"
+              "WhenOpened": "2025-06-04T11:36:38.595Z"
             }
           ]
         }
